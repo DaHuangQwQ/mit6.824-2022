@@ -1,0 +1,368 @@
+2024/04/10 21:20:06 0 开始 ticker 
+2024/04/10 21:20:06 1 开始 ticker 
+Test (2A): initial election ...
+2024/04/10 21:20:06 2 开始 ticker 
+2024/04/10 21:20:06 1 Ticker
+2024/04/10 21:20:06 1 成为了候选人 term: 1
+2024/04/10 21:20:06 1 获得了 2 votes
+2024/04/10 21:20:06 1 选举成功 term: 1
+2024/04/10 21:20:06 1 获得了 3 votes
+2024/04/10 21:20:06 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:06 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:06 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:06 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:06 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:06 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 Ticker
+2024/04/10 21:20:07 1 已经不需要 ticker 了
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:07 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:08 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+  ... Passed --   3.1  3   60   15394    0
+2024/04/10 21:20:09 0 开始 ticker 
+2024/04/10 21:20:09 1 开始 ticker 
+2024/04/10 21:20:09 2 开始 ticker 
+Test (2A): election after network failure ...
+2024/04/10 21:20:09 2 Ticker
+2024/04/10 21:20:09 2 已经不需要 ticker 了
+2024/04/10 21:20:09 2 成为了候选人 term: 2
+2024/04/10 21:20:09 2 Ticker
+2024/04/10 21:20:09 2 成为了候选人 term: 1
+2024/04/10 21:20:09 2 获得了 2 votes
+2024/04/10 21:20:09 2 选举成功 term: 1
+2024/04/10 21:20:09 2 获得了 3 votes
+2024/04/10 21:20:09 2 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 2 向 1 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:09 0 Ticker
+2024/04/10 21:20:09 0 已经不需要 ticker 了
+2024/04/10 21:20:09 0 成为了候选人 term: 2
+2024/04/10 21:20:10 2 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 2 向 1 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 2 向 1 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 2 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 2 Ticker
+2024/04/10 21:20:10 2 已经不需要 ticker 了
+2024/04/10 21:20:10 1 Ticker
+2024/04/10 21:20:10 1 成为了候选人 term: 2
+2024/04/10 21:20:10 1 获得了 2 votes
+2024/04/10 21:20:10 1 选举成功 term: 2
+2024/04/10 21:20:10 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 Ticker
+2024/04/10 21:20:10 1 已经不需要 ticker 了
+2024/04/10 21:20:10 !!!!! 2 已经不是 Leader 了
+2024/04/10 21:20:10 2 开始 ticker 
+2024/04/10 21:20:10 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:10 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:11 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:11 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:11 1 向 0 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:11 1 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:11 0 Ticker
+2024/04/10 21:20:11 0 成为了候选人 term: 3
+2024/04/10 21:20:11 2 Ticker
+2024/04/10 21:20:11 2 成为了候选人 term: 3
+2024/04/10 21:20:11 0 Ticker
+2024/04/10 21:20:11 2 Ticker
+2024/04/10 21:20:11 0 Ticker
+2024/04/10 21:20:11 0 成为了候选人 term: 4
+2024/04/10 21:20:12 2 Ticker
+2024/04/10 21:20:12 2 成为了候选人 term: 4
+2024/04/10 21:20:12 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:12 0 Ticker
+2024/04/10 21:20:12 SendEntries: 2 连接到 1 失败
+2024/04/10 21:20:12 2 Ticker
+2024/04/10 21:20:12 SendEntries: 2 连接到 1 失败
+2024/04/10 21:20:12 0 Ticker
+2024/04/10 21:20:12 0 成为了候选人 term: 5
+2024/04/10 21:20:12 sendRequestVote: 0 连接到 1 失败
+2024/04/10 21:20:12 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:12 2 Ticker
+2024/04/10 21:20:12 2 成为了候选人 term: 5
+2024/04/10 21:20:12 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:12 sendRequestVote: 0 连接到 2 失败
+2024/04/10 21:20:12 0 Ticker
+2024/04/10 21:20:12 2 Ticker
+2024/04/10 21:20:13 0 Ticker
+2024/04/10 21:20:13 0 成为了候选人 term: 6
+2024/04/10 21:20:13 sendRequestVote: 2 连接到 1 失败
+2024/04/10 21:20:13 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:13 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:13 0 Ticker
+2024/04/10 21:20:13 2 Ticker
+2024/04/10 21:20:13 2 成为了候选人 term: 6
+2024/04/10 21:20:13 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:13 sendRequestVote: 2 连接到 1 失败
+2024/04/10 21:20:13 2 Ticker
+2024/04/10 21:20:13 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:13 sendRequestVote: 0 连接到 2 失败
+2024/04/10 21:20:13 0 Ticker
+2024/04/10 21:20:13 0 成为了候选人 term: 7
+2024/04/10 21:20:13 0 获得了 2 votes
+2024/04/10 21:20:13 0 选举成功 term: 7
+2024/04/10 21:20:13 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:13 sendRequestVote: 2 连接到 1 失败
+2024/04/10 21:20:13 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:13 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:13 0 向 1 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:13 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:13 0 Ticker
+2024/04/10 21:20:13 0 已经不需要 ticker 了
+2024/04/10 21:20:13 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:13 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 sendRequestVote: 0 连接到 2 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 SendEntries: 2 连接到 0 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:14 sendRequestVote: 0 连接到 2 失败
+2024/04/10 21:20:14 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:14 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:14 SendEntries: 0 连接到 1 失败
+2024/04/10 21:20:14 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:14 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:14 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:15 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:15 sendRequestVote: 2 连接到 1 失败
+2024/04/10 21:20:15 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 2 连接到 0 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:15 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:15 SendEntries: 2 连接到 0 失败
+2024/04/10 21:20:15 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:15 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 sendRequestVote: 2 连接到 0 失败
+2024/04/10 21:20:16 SendEntries: 2 连接到 0 失败
+2024/04/10 21:20:16 sendRequestVote: 0 连接到 1 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 SendEntries: 2 连接到 1 失败
+2024/04/10 21:20:16 SendEntries: 2 连接到 0 失败
+2024/04/10 21:20:16 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 sendRequestVote: 0 连接到 1 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:16 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:16 sendRequestVote: 0 连接到 1 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:16 SendEntries: 0 连接到 1 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 SendEntries: 2 连接到 1 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 SendEntries: 2 连接到 1 失败
+2024/04/10 21:20:16 sendRequestVote: 2 连接到 0 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:16 sendRequestVote: 1 连接到 2 失败
+2024/04/10 21:20:16 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:16 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:16 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:16 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 sendRequestVote: 2 连接到 0 失败
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:17 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:17 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:17 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:18 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 sendRequestVote: 0 连接到 1 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:18 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:18 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:18 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:19 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:19 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:19 SendEntries: 1 连接到 2 失败
+2024/04/10 21:20:19 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 SendEntries: 1 连接到 0 失败
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:20 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:21 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:22 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:23 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:24 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:25 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:26 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:27 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:27 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:27 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:27 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:27 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+2024/04/10 21:20:27 0 向 2 发来 log  PrevLogIndex: 1  PrevLogTerm: -1
+signal: interrupt
+FAIL	6.824/raft	21.207s
